@@ -1,0 +1,17 @@
+.project-card{
+    margin: 5px;
+    padding: 5px;
+    border: 2px double #fff;
+    border-radius: 5px;
+    width:300px ;
+}
+.projectImg{
+    height: 200px;
+    width: 285px;
+    border-radius: 5px;
+}
+.heading{
+    color: #dc3545;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
