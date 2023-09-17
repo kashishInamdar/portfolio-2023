@@ -170,6 +170,43 @@ nav ul a:hover::after{
     display: block;
 }
 
+/* ----------------------- Skill ----------------------- */
+.skill-logo-html{
+    height:60px;
+    width: 60px;
+    border-radius: 10px;
+    background-color:rgb(228, 228, 254);
+    box-shadow:0 14px 20px 0 rgb(237, 232, 232);
+   padding: 10px;
+}
+.skill-logo-html:hover{
+    cursor: pointer;
+    margin-bottom: 3px;
+    width: 62px;
+
+}
+.skill-name{
+    padding-top: 5px;
+    font-family:sans-serif ;
+    font-weight:bold;
+    text-align: center;
+
+
+}
+
+.c-lng{
+font-size: 15px;
+text-align: center;
+position: relative;
+right:11px;
+}
+
+.main-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 /* ----------------------- Project ----------------------- */
 .project-card{
     margin: 5px;
